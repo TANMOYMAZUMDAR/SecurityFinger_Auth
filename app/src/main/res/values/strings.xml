@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecurityFinger</string>
+    <string name="fingerprint_authentication">FingerPrint Authentication</string>
+    <string name="place_your_finger_to_scan_and_proceed">Place Your Finger To Scan And Proceed</string>
+    <string name="todo">TODO</string>
+
+</resources>
