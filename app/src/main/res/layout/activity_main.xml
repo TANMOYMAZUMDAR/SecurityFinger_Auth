@@ -41,6 +41,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="128dp"
         android:contentDescription="@string/todo"
-        app:srcCompat="@mipmap/fingerprintImage" />
+        app:srcCompat="@mipmap/fingerprintimage" />
 
 </RelativeLayout>
