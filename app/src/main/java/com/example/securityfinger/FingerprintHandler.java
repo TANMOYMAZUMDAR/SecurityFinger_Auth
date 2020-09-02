@@ -48,7 +48,7 @@ public class FingerprintHandler extends FingerprintManager.AuthenticationCallbac
 
     @Override
     public void onAuthenticationSucceeded(FingerprintManager.AuthenticationResult result) {
-        this.update("You can now access the app",false);
+        this.update("You can now access the app",true);
     }
 
     private void update(String s, boolean b) {
